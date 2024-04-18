@@ -1,0 +1,57 @@
+/* -------------------------------------------------  PRODUCT ------------------------------------------------- */
+
+.product {
+    padding: 2rem;
+  }
+
+  .box_phone {
+    padding: 3rem 0;
+    justify-content: center;
+    display: flex;
+  }
+  .box_description_name {
+    font-size: 25px;
+  }
+  .box_description {
+    width: auto;
+    gap: 0.5rem 0;
+    padding: 1rem 0;
+  }
+  
+  .box_phone_img {
+    width: 500px;
+  }
+  
+  .box_phone_gallery {
+    padding: 0.2rem;
+    align-items: center;
+    display: flex;
+    gap: 1rem;
+    overflow-x: scroll;
+  }
+  
+  .gallery_card {
+    padding: 0.4rem;
+    height: 150px;
+  }
+
+  .btn_buy{
+    background-color: #400D84;
+    font-weight: 600;
+    width: 10rem;
+    margin: 3rem auto;
+  }
+  .btn_buy:hover{
+    background-color: #FCC1F9;
+  }
+  
+  .gallery_card img {
+    height: 100%;
+  }
+  
+  .box_description_price {
+    font-size: 22px;
+    font-weight: 600;
+    padding: 0.4rem 0;
+  }
+  
